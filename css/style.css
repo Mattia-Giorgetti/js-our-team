@@ -1,0 +1,12 @@
+.css_card {
+    border: 1px solid black;
+    height: 450px;
+}
+
+
+.my_flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
